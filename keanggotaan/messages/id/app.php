@@ -1,0 +1,50 @@
+<?php
+
+return [
+    'Dashboard' => 'Beranda',
+    'Administration' => 'Administrasi',
+    'Add' => 'Tambah',
+    'Back' => 'Kembali',
+    'Create' => 'Simpan',
+    'Update' =>'Koreksi',
+    'Edit' => 'Koreksi',
+    'Cancel'=>'Batal',
+    'Code' => 'Kode',
+    'Name' => 'Nama',
+    'Address' => 'Alamat',
+    'Phone' => 'No. Telp',
+    'Enter' => 'Masukan',
+    'Reset List' => 'Segarkan Kembali',
+    'Choose' => 'Pilih',
+    'Worksheet' => 'Lembar Kerja',
+    'Description' => 'Deskripsi',
+    'Setting'=> 'Pengaturan',
+    'Browse..'=>'Pilih..',
+    'Remove'=>'Hapus',
+    'Upload'=>'Unggah',
+    'Download'=>'Unduh',
+    'Success Save'=>'Berhasil disimpan',
+    'Success Edit'=>'Berhasil dikoreksi',
+    'Success Delete'=>'Berhasil dihapus',
+    'Showing :'=>'Tampilkan :',
+    'Error Save'=>'Gagal disimpan',
+    'Success Upload'=>'Berhasil diUpload',
+    'Save' => 'Simpan',
+    'Sort  ID' => 'No Urut',
+    'Active'   => 'Aktif',
+    'Are you sure you want to delete this item?' =>'Apakah Anda yakin ingin menghapus item ini?',
+    // Message for module.
+    'Incorrect No.Anggota or Password.'=>'No.Anggota atau Password salah.',
+    'disclamer'=>'Saya menyatakan data yang diisi benar dan dapat dipertanggungjawabkan.',
+
+    // Usulan Koleksi
+    'Title'=>'Judul',
+    'Member ID'=>'No.Anggota *',
+    'Worksheet ID'=>'Jenis Bahan *',
+    'Author'=>'Pengarang',
+    'Publisher'=>'Penerbit',
+    'Publish Location'=>'Kota Terbit',
+    'Publish Year'=>'Tahun Terbit',
+    'Comments'=>'Keterangan'
+
+];
